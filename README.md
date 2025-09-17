@@ -73,10 +73,10 @@ Example Endpoints / API Style
 
 ---
 
-Author
+## Author
 
-Omer Morim
-B.Sc. in Computer Science, HIT
-LinkedIn
+**Omer Morim**  
+B.Sc. in Computer Science  
+[LinkedIn](https://www.linkedin.com/in/omer-morim/)
 
 
