@@ -45,12 +45,6 @@ Clone the repository:
 git clone https://github.com/omer-morim/blockchain-demo.git
 cd blockchain-demo
 
-## Getting Started
-
-Clone the repository:
-git clone https://github.com/omer-morim/blockchain-demo.git
-cd blockchain-demo
-
 Install dependencies:
 npm install
 
@@ -59,7 +53,7 @@ node main.js
 
 ---
 
-## Demo Flow
+Demo Flow
 - Creates three wallets (miner, W1, W2)
 - Airdrops initial balances
 - Submits signed transactions
@@ -69,7 +63,7 @@ node main.js
 
 ---
 
-## Example Endpoints / API Style
+Example Endpoints / API Style
 (for demonstration – the project currently runs as a local script)
 
 - submitTransaction(tx) – add transaction to mempool
@@ -79,7 +73,7 @@ node main.js
 
 ---
 
-## Author
+Author
 Omer Morim  
 B.Sc. in Computer Science, HIT  
 LinkedIn
