@@ -74,8 +74,9 @@ Example Endpoints / API Style
 ---
 
 Author
-Omer Morim  
-B.Sc. in Computer Science, HIT  
+
+Omer Morim
+B.Sc. in Computer Science, HIT
 LinkedIn
 
 
