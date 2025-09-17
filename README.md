@@ -44,52 +44,34 @@ Clone the repository:
 ```bash
 git clone https://github.com/omer-morim/blockchain-demo.git
 cd blockchain-demo
-
 Install dependencies:
 npm install
-
 Run the application:
 node main.js
 
 ---
 
-Demo Flow
-
-Creates three wallets (miner, W1, W2)
-
-Airdrops initial balances
-
-Submits signed transactions
-
-Mines a block with transactions + coinbase
-
-Light wallets verify credits using Bloom + Merkle proofs
-
-Prints balances and runs a supply audit
+## Demo Flow
+- Creates three wallets (miner, W1, W2)
+- Airdrops initial balances
+- Submits signed transactions
+- Mines a block with transactions + coinbase
+- Light wallets verify credits using Bloom + Merkle proofs
+- Prints balances and runs a supply audit
 
 ---
 
-Example Endpoints / API Style
+## Example Endpoints / API Style
+*(for demonstration – the project currently runs as a local script)*
 
-(for demonstration – the project currently runs as a local script)
-
-submitTransaction(tx) – add transaction to mempool
-
-mine(minerAddress) – mine pending transactions
-
-getBalanceOfAddress(address) – check on-chain balance
-
-airdrop(addresses, amount) – initial distribution
+- `submitTransaction(tx)` – add transaction to mempool  
+- `mine(minerAddress)` – mine pending transactions  
+- `getBalanceOfAddress(address)` – check on-chain balance  
+- `airdrop(addresses, amount)` – initial distribution  
 
 ---
 
-Author
-
-Omer Morim
-B.Sc. in Computer Science, HIT
-LinkedIn
-
-
-
-
-
+## Author
+**Omer Morim**  
+B.Sc. in Computer Science, HIT  
+[LinkedIn](https://www.linkedin.com/in/omer-morim)  
